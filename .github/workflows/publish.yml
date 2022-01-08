@@ -1,0 +1,35 @@
+name: Dendron
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout source
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: Install npm dependencies
+      run: npm install @dendronhq/dendron-cli@latest
+
+    - name: Initialize or pull nextjs template
+      run: npx dendron publish init
+
+    - name: Delete next cache
+      run: "(test -d .next/.next) && (rm -rf .next/.next && echo 'delete Next.js cache') || echo 'no Next.js cache found'"
+
+    - name: Export notes
+      run: npx dendron publish export --target github --yes
+
+    - name: Deploy site
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: pages
+        publish_dir: docs/
+        force_orphan: true
