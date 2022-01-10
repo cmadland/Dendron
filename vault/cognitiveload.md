@@ -1,12 +1,9 @@
 ---
 id: aiaWfJC3yvQTNSJ10SXTm
-title: Cognitiveload
+title: Cognitive Load
 desc: ''
-updated: 1640807759637
+updated: 1641603295184
 created: 1640807481025
-stub: false
+stub: true
 ---
 
-[[cognitiveload.swellerCognitiveLoadTheory1994]]  
-
-[[cognitiveload.larmuseauMultimodalLearningAnalytics2020]]
