@@ -2,14 +2,14 @@
 id: QxJysSMxMtDQlaIXM1wjU
 title: pellegrinoKnowingWhatStudents2001
 desc: ''
-updated: 1643007896960
+updated: 1643008965250
 created: 1643005838759
 ---
 
 Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). *Knowing What Students Know: The Science and Design of Educational Assessment.* National Academies Press. https://doi.org/10.17226/10019
 
 
- #assessment-triangle #context-dependent #reasoning #evidence #alignment
+ #assessment.assessment-triangle #context-dependent #reasoning #evidence #alignment
 
 ---
 
