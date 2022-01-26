@@ -2,7 +2,7 @@
 id: wdz9g2uE9yHCl5qHS2eVL
 title: GuidelinesDissertationThree
 desc: ''
-updated: 1642663031069
+updated: 1643176539484
 created: 1642659634263
 ---
 
@@ -11,8 +11,8 @@ created: 1642659634263
 https://fsph.iupui.edu/doc/student-portal/Guidelines_for_Dissertation_of_Three_Papers.pdf
 
 |   | Conventional Dissertation | 3-paper Dissertation |
-|---|---|---|
-| Intoduction and outline of the problem | ✔️  |   |
+|---|:---:|:---:|
+| Introduction and outline of the problem | ✔️  |   |
 | Introduction to the overall topic |   | ✔️ |
 | Conceptual or theoretical framework | ✔️  | ✔️  |
 | Lit review | ✔️  | Included in 3 papers |
