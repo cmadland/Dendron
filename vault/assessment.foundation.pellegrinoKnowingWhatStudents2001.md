@@ -2,7 +2,7 @@
 id: QxJysSMxMtDQlaIXM1wjU
 title: pellegrinoKnowingWhatStudents2001
 desc: ''
-updated: 1643010730298
+updated: 1643060727592
 created: 1643005838759
 ---
 
@@ -16,7 +16,7 @@ Pellegrino, J. W., Chudowsky, N., & Glaser, R. (2001). *Knowing What Students Kn
 ## Assessment Triangle
 ![Assessment Triangle](assets/assessment-triangle.png)
 
-The NRC models assessment as a triangle composed of three interdependent components of any assessment (Figure 1):  *cognition*, or a model of the domain to be learned; *observation*, or the performance task learners will complete to demonstrate their competence; and an *inference* or *interpretation* of the data produced by the observation. The interdependent nature of the three components requires that both the observation and interpretation components be grounded in the nature of the cognitive model of the domain. For example, if the domain of knowledge is, broadly speaking, statistics, then the observation, or performance task, must elicit responses which require the examinee to demonstrate competence in statistics [@gerritsen-vanleeuwenkampAssessmentQualityTertiary2017]. If the performance task requires the ability to speak Icelandic, a different cognitive domain, then a Swahili-speaking examinee's responses will not be representative of their ability in statistics, but rather their lack of ability to speak Icelandic. Consequently, the examiner will have no basis for making an inference about the examinee's statistical ability; in other terms, the inference would be invalid because the performance task is not aligned with the cognitive model (see also [@biggsWhatStudentDoes1999]). [[assessment.foundation.biggsWhatStudentDoes1999]]
+The NRC models assessment as a triangle composed of three interdependent components of any assessment (Figuintro):  *cognition*, or a model of the domain to be learned; *observation*, or the performance task learners will complete to demonstrate their competence; and an *inference* or *interpretation* of the data produced by the observation. The interdependent nature of the three components requires that both the observation and interpretation components be grounded in the nature of the cognitive model of the domain. For example, if the domain of knowledge is, broadly speaking, statistics, then the observation, or performance task, must elicit responses which require the examinee to demonstrate competence in statistics [@gerritsen-vanleeuwenkampAssessmentQualityTertiary2017]. If the performance task requires the ability to speak Icelandic, a different cognitive domain, then a Swahili-speaking examinee's responses will not be representative of their ability in statistics, but rather their lack of ability to speak Icelandic. Consequently, the examiner will have no basis for making an inference about the examinee's statistical ability; in other terms, the inference would be invalid because the performance task is not aligned with the cognitive model (see also [@biggsWhatStudentDoes1999]). [[assessment.foundation.biggsWhatStudentDoes1999]]
 
 
 ### Cognition
@@ -36,3 +36,4 @@ The NRC models assessment as a triangle composed of three interdependent compone
 
 ### p112
 > a process of drawing reasonable inferences about what students know on the basis of evidence derived from observations of what they say, do, or make in selected situations 
+
