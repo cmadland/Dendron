@@ -2,7 +2,7 @@
 id: RliHAIpeCYGEbcCMzKoQ7
 title: ch2
 desc: ''
-updated: 1643958144277
+updated: 1643958887615
 created: 1643951025608
 ---
 
@@ -39,3 +39,11 @@ Assessment exists within a series of pedagogical, administrative and technologic
 > So, higher education cannot avoid digital technologies, irrespective of whether deliberate attempts to harness technology to improve education are successful.
 
 > In his 2014 book, Digital Technology and the Contemporary University: Degrees of Digitisation, Selwyn interrogates the current status of technology within the university. He writes: “the pessimistic commentator [accepts] that digital technology is not bringing about the changes and transformations that many people contend…” (p. 18). He calls for “the very difficult conversations that need to take place about what digital higher education is, and what digital higher education should be.” From Selwyn’s perspective, technology is not neutral: it serves a variety of different and often competing agendas. He notes, as we have, that digital technologies tend to maintain the status quo. Most of the book dissects the often grim realities of digital technologies in our universities and outlines a range of ways in which administrative and educational technologies “reproduce long-standing and deep-rooted structures and arrangements” (p. 141). However, in closing, Selwyn suggests we need to reimagine higher education in this digital era. He calls for changes in how we talk about educational technology, the physical spaces surrounding technologies, and the need for guiding principles which outline moral rules of engagement.
+
+>The second scholarly work of interest is Barnett and Bengtsen’s 2017 paper: Universities and Epistemology: From a Dissolution of Knowledge to the Emergence of a New Thinking. In contrast to Selwyn’s pessimistic stance, the authors “argue that an optimistic university is a university-in-the-world and thinks the future from the world.”
+
+## p10
+
+> If the very notions of truth and knowledge have changed, then this necessarily impacts upon institutions whose core purpose is knowledge production.
+
+## Reimagining the Status Quo
