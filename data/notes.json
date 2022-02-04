@@ -1,0 +1,3035 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032429,
+      "created": 1643959032429,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "5jYEnrzN6hGFE8UIGFZmq": {
+      "id": "5jYEnrzN6hGFE8UIGFZmq",
+      "title": "Literature",
+      "desc": "",
+      "updated": 1641603128996,
+      "created": 1640807033123,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "50d4df57e1d51dc7dc70adcb1107174a",
+      "links": [],
+      "anchors": {
+        "colin-madland": {
+          "type": "header",
+          "text": "Colin Madland",
+          "value": "colin-madland",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "B7myY49HkkF7myZxUuBxl",
+        "L22lROYOyWkZEdDIPsTID",
+        "yTIqwRe5IPrxiJ01mdsxI",
+        "LoO5XTqa9xfDY8xhh161H",
+        "jADP0D1g2XDXGy7YK6hfq",
+        "VpmPuvmeSOhFST1BB6QTT"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "VpmPuvmeSOhFST1BB6QTT": {
+      "fname": "dissertation",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032229,
+      "created": 1643959032229,
+      "id": "VpmPuvmeSOhFST1BB6QTT",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "4HuJK1YbDiF5JO1p0COda"
+      ],
+      "parent": "5jYEnrzN6hGFE8UIGFZmq",
+      "data": {},
+      "title": "Dissertation"
+    },
+    "4HuJK1YbDiF5JO1p0COda": {
+      "fname": "dissertation.publication",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032229,
+      "created": 1643959032229,
+      "id": "4HuJK1YbDiF5JO1p0COda",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "wdz9g2uE9yHCl5qHS2eVL",
+        "4cHM1zjFd82I95jGZJVo5",
+        "adJNXdFprOQJ2nhWqD2yC"
+      ],
+      "parent": "VpmPuvmeSOhFST1BB6QTT",
+      "data": {},
+      "title": "Publication"
+    },
+    "adJNXdFprOQJ2nhWqD2yC": {
+      "fname": "dissertation.publication.miller",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032233,
+      "created": 1643959032233,
+      "id": "adJNXdFprOQJ2nhWqD2yC",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "OKoyk4JKewzGWv2tgfW7c",
+        "fUMnrCos4vE1WKsainTXc"
+      ],
+      "parent": "4HuJK1YbDiF5JO1p0COda",
+      "data": {},
+      "title": "Miller"
+    },
+    "fUMnrCos4vE1WKsainTXc": {
+      "id": "fUMnrCos4vE1WKsainTXc",
+      "title": "millerLeveragingCSCLTechnology2015",
+      "desc": "",
+      "updated": 1642094928977,
+      "created": 1642094855111,
+      "custom": {},
+      "fname": "dissertation.publication.miller.millerLeveragingCSCLTechnology2015",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "28d956851ffdeeabca9627d2c9cce501",
+      "links": [],
+      "anchors": {
+        "abstract": {
+          "type": "header",
+          "text": "Abstract",
+          "value": "abstract",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "adJNXdFprOQJ2nhWqD2yC",
+      "data": {}
+    },
+    "OKoyk4JKewzGWv2tgfW7c": {
+      "id": "OKoyk4JKewzGWv2tgfW7c",
+      "title": "Info",
+      "desc": "",
+      "updated": 1642055064347,
+      "created": 1642052084951,
+      "custom": {},
+      "fname": "dissertation.publication.miller.info",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "fefa1f2269bc941f5065dd67be008dc9",
+      "links": [],
+      "anchors": {
+        "how-do-you-write-the-proposal-where-does-the-proposal-break-off-into-3-studies-at-the-rq-level-purpose": {
+          "type": "header",
+          "text": "How do you write the proposal? Where does the proposal break off into 3 studies? at the RQ level? purpose?",
+          "value": "how-do-you-write-the-proposal-where-does-the-proposal-break-off-into-3-studies-at-the-rq-level-purpose",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "concurrent-consecutive-rules-or-guidelines": {
+          "type": "header",
+          "text": "Concurrent? Consecutive? Rules or guidelines?",
+          "value": "concurrent-consecutive-rules-or-guidelines",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "seems-that-the-guiding-principle-should-be-around-the-problem": {
+          "type": "header",
+          "text": "Seems that the guiding principle should be around the Problem",
+          "value": "seems-that-the-guiding-principle-should-be-around-the-problem",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        },
+        "which-version": {
+          "type": "header",
+          "text": "Which version?",
+          "value": "which-version",
+          "line": 44,
+          "column": 0,
+          "depth": 3
+        },
+        "would-you-do-it-again": {
+          "type": "header",
+          "text": "Would you do it again?",
+          "value": "would-you-do-it-again",
+          "line": 52,
+          "column": 0,
+          "depth": 3
+        },
+        "take-longer": {
+          "type": "header",
+          "text": "Take longer",
+          "value": "take-longer",
+          "line": 62,
+          "column": 0,
+          "depth": 3
+        },
+        "3-ethics-apps": {
+          "type": "header",
+          "text": "3 ethics apps?",
+          "value": "3-ethics-apps",
+          "line": 67,
+          "column": 0,
+          "depth": 3
+        },
+        "lit-review": {
+          "type": "header",
+          "text": "Lit review?",
+          "value": "lit-review",
+          "line": 73,
+          "column": 0,
+          "depth": 3
+        },
+        "writing-final-analysis-create-overarching-paper": {
+          "type": "header",
+          "text": "Writing final analysis? create overarching paper?",
+          "value": "writing-final-analysis-create-overarching-paper",
+          "line": 77,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "adJNXdFprOQJ2nhWqD2yC",
+      "data": {}
+    },
+    "4cHM1zjFd82I95jGZJVo5": {
+      "id": "4cHM1zjFd82I95jGZJVo5",
+      "title": "ThreePapersPhD",
+      "desc": "",
+      "updated": 1642659386335,
+      "created": 1642658445444,
+      "custom": {},
+      "fname": "dissertation.publication.ThreePapersPhD",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "49cd63b55ebb250a62577a3adabe5255",
+      "links": [],
+      "anchors": {
+        "the-three-papers-phd-thesis-a-guide-for-the-perplexed": {
+          "type": "header",
+          "text": "The 'three papers' PhD thesis: a guide for the perplexed",
+          "value": "the-three-papers-phd-thesis-a-guide-for-the-perplexed",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "faq": {
+          "type": "header",
+          "text": "FAQ",
+          "value": "faq",
+          "line": 31,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "4HuJK1YbDiF5JO1p0COda",
+      "data": {}
+    },
+    "wdz9g2uE9yHCl5qHS2eVL": {
+      "id": "wdz9g2uE9yHCl5qHS2eVL",
+      "title": "GuidelinesDissertationThree",
+      "desc": "",
+      "updated": 1643176539484,
+      "created": 1642659634263,
+      "custom": {},
+      "fname": "dissertation.publication.GuidelinesDissertationThree",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "eeb9be983e448445bc54f81a883ff02c",
+      "links": [],
+      "anchors": {
+        "guidelines-for-the-dissertation-of-three-publishable-papers": {
+          "type": "header",
+          "text": "Guidelines for the Dissertation of Three Publishable Papers",
+          "value": "guidelines-for-the-dissertation-of-three-publishable-papers",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "is-the-proposal-defense-the-same": {
+          "type": "header",
+          "text": "Is the proposal defense the same?",
+          "value": "is-the-proposal-defense-the-same",
+          "line": 25,
+          "column": 0,
+          "depth": 3
+        },
+        "do-papers-need-to-be-published-before-submitting-dissertation": {
+          "type": "header",
+          "text": "Do papers need to be published before submitting dissertation?",
+          "value": "do-papers-need-to-be-published-before-submitting-dissertation",
+          "line": 30,
+          "column": 0,
+          "depth": 3
+        },
+        "primary-authorship": {
+          "type": "header",
+          "text": "Primary authorship",
+          "value": "primary-authorship",
+          "line": 36,
+          "column": 0,
+          "depth": 3
+        },
+        "lit-review": {
+          "type": "header",
+          "text": "Lit review?",
+          "value": "lit-review",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        },
+        "publish-before-or-after-graduation": {
+          "type": "header",
+          "text": "Publish before or after graduation?",
+          "value": "publish-before-or-after-graduation",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "format": {
+          "type": "header",
+          "text": "Format?",
+          "value": "format",
+          "line": 47,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "4HuJK1YbDiF5JO1p0COda",
+      "data": {}
+    },
+    "jADP0D1g2XDXGy7YK6hfq": {
+      "fname": "assessment",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032228,
+      "created": 1643959032228,
+      "id": "jADP0D1g2XDXGy7YK6hfq",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "RQsWlmJQOKZkutisdTm0j",
+        "x43Ye8feCB1TjBFH5XqGV",
+        "5vVONWybdRQVWtfm0uvFP"
+      ],
+      "parent": "5jYEnrzN6hGFE8UIGFZmq",
+      "data": {},
+      "title": "Assessment"
+    },
+    "5vVONWybdRQVWtfm0uvFP": {
+      "fname": "assessment.online",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032232,
+      "created": 1643959032232,
+      "id": "5vVONWybdRQVWtfm0uvFP",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "DpUTjLipBzyZzHsNwQDgj"
+      ],
+      "parent": "jADP0D1g2XDXGy7YK6hfq",
+      "data": {},
+      "title": "Online"
+    },
+    "DpUTjLipBzyZzHsNwQDgj": {
+      "fname": "assessment.online.students",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032232,
+      "created": 1643959032232,
+      "id": "DpUTjLipBzyZzHsNwQDgj",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "m7pRiZIC8BVjdhcpTllA7",
+        "87U8lkqKLpN0qS20z1l4r"
+      ],
+      "parent": "5vVONWybdRQVWtfm0uvFP",
+      "data": {},
+      "title": "Students"
+    },
+    "87U8lkqKLpN0qS20z1l4r": {
+      "id": "87U8lkqKLpN0qS20z1l4r",
+      "title": "spiveyClassroomOnlineAssessment2014",
+      "desc": "",
+      "updated": 1643524165706,
+      "created": 1643263780158,
+      "custom": {},
+      "fname": "assessment.online.students.spiveyClassroomOnlineAssessment2014",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ce0a311bf2558ebd5af85365f23b6733",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.online.students.spiveyClassroomOnlineAssessment2014",
+            "id": "87U8lkqKLpN0qS20z1l4r",
+            "vaultName": "vault"
+          },
+          "value": "tags.learner.perspective",
+          "alias": "#learner.perspective",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 21,
+              "offset": 21
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.learner.perspective"
+          }
+        },
+        {
+          "from": {
+            "fname": "assessment.online.students.khanOnlineAssessmentsExploring2019",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 44
+            },
+            "end": {
+              "line": 4,
+              "column": 67,
+              "offset": 110
+            },
+            "indent": []
+          },
+          "value": "assessment.online.students.spiveyClassroomOnlineAssessment2014",
+          "alias": "assessment.online.students.spiveyClassroomOnlineAssessment2014"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "DpUTjLipBzyZzHsNwQDgj",
+      "data": {}
+    },
+    "m7pRiZIC8BVjdhcpTllA7": {
+      "id": "m7pRiZIC8BVjdhcpTllA7",
+      "title": "khanOnlineAssessmentsExploring2019",
+      "desc": "",
+      "updated": 1643263880687,
+      "created": 1643262588708,
+      "custom": {},
+      "fname": "assessment.online.students.khanOnlineAssessmentsExploring2019",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "cb1062a4b97e8724c34dd957342c504c",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.online.students.khanOnlineAssessmentsExploring2019",
+            "id": "m7pRiZIC8BVjdhcpTllA7",
+            "vaultName": "vault"
+          },
+          "value": "tags.methods.qualitative",
+          "alias": "#methods.qualitative",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 21,
+              "offset": 21
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.methods.qualitative"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.online.students.khanOnlineAssessmentsExploring2019",
+            "id": "m7pRiZIC8BVjdhcpTllA7",
+            "vaultName": "vault"
+          },
+          "value": "tags.learner.perspective",
+          "alias": "#learner.perspective",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 22,
+              "offset": 22
+            },
+            "end": {
+              "line": 2,
+              "column": 42,
+              "offset": 42
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.learner.perspective"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.online.students.khanOnlineAssessmentsExploring2019",
+            "id": "m7pRiZIC8BVjdhcpTllA7",
+            "vaultName": "vault"
+          },
+          "value": "assessment.online.students.spiveyClassroomOnlineAssessment2014",
+          "alias": "assessment.online.students.spiveyClassroomOnlineAssessment2014",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 44
+            },
+            "end": {
+              "line": 4,
+              "column": 67,
+              "offset": 110
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "assessment.online.students.spiveyClassroomOnlineAssessment2014"
+          }
+        }
+      ],
+      "anchors": {
+        "abstract": {
+          "type": "header",
+          "text": "Abstract",
+          "value": "abstract",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "DpUTjLipBzyZzHsNwQDgj",
+      "data": {}
+    },
+    "x43Ye8feCB1TjBFH5XqGV": {
+      "fname": "assessment.highered",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032228,
+      "created": 1643959032228,
+      "id": "x43Ye8feCB1TjBFH5XqGV",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "MYzsdtFmaS3EXFcIhjbKf",
+        "3UriiHP6dgA7LzYOCaNey"
+      ],
+      "parent": "jADP0D1g2XDXGy7YK6hfq",
+      "data": {},
+      "title": "Highered"
+    },
+    "3UriiHP6dgA7LzYOCaNey": {
+      "fname": "assessment.highered.digital",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032233,
+      "created": 1643959032233,
+      "id": "3UriiHP6dgA7LzYOCaNey",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "OTqxYCHoIPmFwaRm6jdGc"
+      ],
+      "parent": "x43Ye8feCB1TjBFH5XqGV",
+      "data": {},
+      "title": "Digital"
+    },
+    "OTqxYCHoIPmFwaRm6jdGc": {
+      "fname": "assessment.highered.digital.bearmanReimaginingUniversityAssessment2020",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032233,
+      "created": 1643959032233,
+      "id": "OTqxYCHoIPmFwaRm6jdGc",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "iR3x4choWSZWO7zTqJavi",
+        "RliHAIpeCYGEbcCMzKoQ7"
+      ],
+      "parent": "3UriiHP6dgA7LzYOCaNey",
+      "data": {},
+      "title": "bearmanReimaginingUniversityAssessment2020"
+    },
+    "RliHAIpeCYGEbcCMzKoQ7": {
+      "id": "RliHAIpeCYGEbcCMzKoQ7",
+      "title": "ch2",
+      "desc": "",
+      "updated": 1643958887615,
+      "created": 1643951025608,
+      "custom": {},
+      "fname": "assessment.highered.digital.bearmanReimaginingUniversityAssessment2020.ch2",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1132c9f84132b58c48a65a7ae6b51b23",
+      "links": [],
+      "anchors": {
+        "new-directions-for-assessment-in-a-digital-world": {
+          "type": "header",
+          "text": "New Directions for Assessment in a Digital World",
+          "value": "new-directions-for-assessment-in-a-digital-world",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "abstract": {
+          "type": "header",
+          "text": "Abstract",
+          "value": "abstract",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "p7": {
+          "type": "header",
+          "text": "p7",
+          "value": "p7",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "introduction": {
+          "type": "header",
+          "text": "Introduction",
+          "value": "introduction",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "p8": {
+          "type": "header",
+          "text": "p8",
+          "value": "p8",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "p9": {
+          "type": "header",
+          "text": "p9",
+          "value": "p9",
+          "line": 34,
+          "column": 0,
+          "depth": 2
+        },
+        "the-need-to-reimagine": {
+          "type": "header",
+          "text": "The Need to Reimagine",
+          "value": "the-need-to-reimagine",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "p10": {
+          "type": "header",
+          "text": "p10",
+          "value": "p10",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "reimagining-the-status-quo": {
+          "type": "header",
+          "text": "Reimagining the Status Quo",
+          "value": "reimagining-the-status-quo",
+          "line": 48,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "OTqxYCHoIPmFwaRm6jdGc",
+      "data": {}
+    },
+    "iR3x4choWSZWO7zTqJavi": {
+      "id": "iR3x4choWSZWO7zTqJavi",
+      "title": "Chapter 1",
+      "desc": "",
+      "updated": 1643872198556,
+      "created": 1643870811118,
+      "custom": {},
+      "fname": "assessment.highered.digital.bearmanReimaginingUniversityAssessment2020.ch1",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "14c3e32b52410d065df7bdbebc10b2b0",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.highered.digital.bearmanReimaginingUniversityAssessment2020.ch1",
+            "id": "iR3x4choWSZWO7zTqJavi",
+            "vaultName": "vault"
+          },
+          "value": "tags.assessment.digital",
+          "alias": "#assessment.digital",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 20,
+              "offset": 20
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.assessment.digital"
+          }
+        },
+        {
+          "from": {
+            "fname": "tags.assessment.digital",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 79,
+              "offset": 79
+            },
+            "indent": []
+          },
+          "value": "assessment.highered.digital.bearmanReimaginingUniversityAssessment2020.ch1",
+          "alias": "assessment.highered.digital.bearmanReimaginingUniversityAssessment2020.ch1"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "OTqxYCHoIPmFwaRm6jdGc",
+      "data": {}
+    },
+    "MYzsdtFmaS3EXFcIhjbKf": {
+      "id": "MYzsdtFmaS3EXFcIhjbKf",
+      "title": "fernandesAssessmentHigherEducation2022",
+      "desc": "",
+      "updated": 1643526889224,
+      "created": 1643524195294,
+      "custom": {},
+      "fname": "assessment.highered.fernandesAssessmentHigherEducation2022",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4e12b9f9f4e786d177d45b81749dd3ee",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.highered.fernandesAssessmentHigherEducation2022",
+            "id": "MYzsdtFmaS3EXFcIhjbKf",
+            "vaultName": "vault"
+          },
+          "value": "tags.AEHE",
+          "alias": "#AEHE",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.AEHE"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.highered.fernandesAssessmentHigherEducation2022",
+            "id": "MYzsdtFmaS3EXFcIhjbKf",
+            "vaultName": "vault"
+          },
+          "value": "tags.hopper",
+          "alias": "#hopper",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 7,
+              "offset": 7
+            },
+            "end": {
+              "line": 2,
+              "column": 14,
+              "offset": 14
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.hopper"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.highered.fernandesAssessmentHigherEducation2022",
+            "id": "MYzsdtFmaS3EXFcIhjbKf",
+            "vaultName": "vault"
+          },
+          "value": "tags.sampling.non-probablistic",
+          "alias": "#sampling.non-probablistic",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 15,
+              "offset": 15
+            },
+            "end": {
+              "line": 2,
+              "column": 41,
+              "offset": 41
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.sampling.non-probablistic"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.highered.fernandesAssessmentHigherEducation2022",
+            "id": "MYzsdtFmaS3EXFcIhjbKf",
+            "vaultName": "vault"
+          },
+          "value": "tags.methods.mixed",
+          "alias": "#methods.mixed",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 42,
+              "offset": 42
+            },
+            "end": {
+              "line": 2,
+              "column": 56,
+              "offset": 56
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.methods.mixed"
+          }
+        }
+      ],
+      "anchors": {
+        "abstract": {
+          "type": "header",
+          "text": "Abstract",
+          "value": "abstract",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "introduction": {
+          "type": "header",
+          "text": "Introduction",
+          "value": "introduction",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "the-study": {
+          "type": "header",
+          "text": "The study",
+          "value": "the-study",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "research-instrument": {
+          "type": "header",
+          "text": "Research instrument",
+          "value": "research-instrument",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "participants": {
+          "type": "header",
+          "text": "Participants",
+          "value": "participants",
+          "line": 17,
+          "column": 0,
+          "depth": 3
+        },
+        "analyses": {
+          "type": "header",
+          "text": "Analyses",
+          "value": "analyses",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        },
+        "findings": {
+          "type": "header",
+          "text": "Findings",
+          "value": "findings",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "bologna-process-20-years-later-what-kind-of-changes": {
+          "type": "header",
+          "text": "Bologna Process 20 years later: what kind of changes?",
+          "value": "bologna-process-20-years-later-what-kind-of-changes",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        },
+        "assessment-practices": {
+          "type": "header",
+          "text": "Assessment practices",
+          "value": "assessment-practices",
+          "line": 22,
+          "column": 0,
+          "depth": 3
+        },
+        "the-place-of-assessment": {
+          "type": "header",
+          "text": "The place of assessment",
+          "value": "the-place-of-assessment",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "conclusions": {
+          "type": "header",
+          "text": "Conclusions",
+          "value": "conclusions",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "x43Ye8feCB1TjBFH5XqGV",
+      "data": {}
+    },
+    "RQsWlmJQOKZkutisdTm0j": {
+      "fname": "assessment.foundation",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032228,
+      "created": 1643959032228,
+      "id": "RQsWlmJQOKZkutisdTm0j",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "7EhmSg4cjFzW9zMUYL5vs",
+        "QxJysSMxMtDQlaIXM1wjU"
+      ],
+      "parent": "jADP0D1g2XDXGy7YK6hfq",
+      "data": {},
+      "title": "Foundation"
+    },
+    "QxJysSMxMtDQlaIXM1wjU": {
+      "id": "QxJysSMxMtDQlaIXM1wjU",
+      "title": "pellegrinoKnowingWhatStudents2001",
+      "desc": "",
+      "updated": 1643060727592,
+      "created": 1643005838759,
+      "custom": {},
+      "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a2e18c8758eebad574df80516a46325a",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "id": "QxJysSMxMtDQlaIXM1wjU",
+            "vaultName": "vault"
+          },
+          "value": "tags.assessment.assessment-triangle",
+          "alias": "#assessment.assessment-triangle",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 2,
+              "offset": 196
+            },
+            "end": {
+              "line": 5,
+              "column": 33,
+              "offset": 227
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.assessment.assessment-triangle"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "id": "QxJysSMxMtDQlaIXM1wjU",
+            "vaultName": "vault"
+          },
+          "value": "tags.assessment.context-dependent",
+          "alias": "#assessment.context-dependent",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 34,
+              "offset": 228
+            },
+            "end": {
+              "line": 5,
+              "column": 63,
+              "offset": 257
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.assessment.context-dependent"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "id": "QxJysSMxMtDQlaIXM1wjU",
+            "vaultName": "vault"
+          },
+          "value": "tags.reasoning",
+          "alias": "#reasoning",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 64,
+              "offset": 258
+            },
+            "end": {
+              "line": 5,
+              "column": 74,
+              "offset": 268
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.reasoning"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "id": "QxJysSMxMtDQlaIXM1wjU",
+            "vaultName": "vault"
+          },
+          "value": "tags.evidence",
+          "alias": "#evidence",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 75,
+              "offset": 269
+            },
+            "end": {
+              "line": 5,
+              "column": 84,
+              "offset": 278
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.evidence"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "id": "QxJysSMxMtDQlaIXM1wjU",
+            "vaultName": "vault"
+          },
+          "value": "tags.assessment.alignment",
+          "alias": "#assessment.alignment",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 85,
+              "offset": 279
+            },
+            "end": {
+              "line": 5,
+              "column": 106,
+              "offset": 300
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.assessment.alignment"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "id": "QxJysSMxMtDQlaIXM1wjU",
+            "vaultName": "vault"
+          },
+          "value": "user.gerritsen-vanleeuwenkampAssessmentQualityTertiary2017",
+          "alias": "@gerritsen-vanleeuwenkampAssessmentQualityTertiary2017",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 731,
+              "offset": 1116
+            },
+            "end": {
+              "line": 12,
+              "column": 785,
+              "offset": 1170
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "user.gerritsen-vanleeuwenkampAssessmentQualityTertiary2017"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "id": "QxJysSMxMtDQlaIXM1wjU",
+            "vaultName": "vault"
+          },
+          "value": "user.biggsWhatStudentDoes1999",
+          "alias": "@biggsWhatStudentDoes1999",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1279,
+              "offset": 1664
+            },
+            "end": {
+              "line": 12,
+              "column": 1304,
+              "offset": 1689
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "user.biggsWhatStudentDoes1999"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "id": "QxJysSMxMtDQlaIXM1wjU",
+            "vaultName": "vault"
+          },
+          "value": "assessment.foundation.biggsWhatStudentDoes1999",
+          "alias": "assessment.foundation.biggsWhatStudentDoes1999",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1308,
+              "offset": 1693
+            },
+            "end": {
+              "line": 12,
+              "column": 1358,
+              "offset": 1743
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "assessment.foundation.biggsWhatStudentDoes1999"
+          }
+        }
+      ],
+      "anchors": {
+        "assessment-triangle": {
+          "type": "header",
+          "text": "Assessment Triangle",
+          "value": "assessment-triangle",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "cognition": {
+          "type": "header",
+          "text": "Cognition",
+          "value": "cognition",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        },
+        "observation": {
+          "type": "header",
+          "text": "Observation",
+          "value": "observation",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "interpretation": {
+          "type": "header",
+          "text": "Interpretation",
+          "value": "interpretation",
+          "line": 25,
+          "column": 0,
+          "depth": 3
+        },
+        "p-25": {
+          "type": "header",
+          "text": "p 25",
+          "value": "p-25",
+          "line": 27,
+          "column": 0,
+          "depth": 3
+        },
+        "p43": {
+          "type": "header",
+          "text": "p43",
+          "value": "p43",
+          "line": 31,
+          "column": 0,
+          "depth": 3
+        },
+        "p112": {
+          "type": "header",
+          "text": "p112",
+          "value": "p112",
+          "line": 36,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "RQsWlmJQOKZkutisdTm0j",
+      "data": {}
+    },
+    "7EhmSg4cjFzW9zMUYL5vs": {
+      "id": "7EhmSg4cjFzW9zMUYL5vs",
+      "title": "biggsWhatStudentDoes1999",
+      "desc": "",
+      "updated": 1643009493194,
+      "created": 1643007831099,
+      "custom": {},
+      "fname": "assessment.foundation.biggsWhatStudentDoes1999",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e9531ee347b89d8acf86a909ec866703",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "assessment.foundation.biggsWhatStudentDoes1999",
+            "id": "7EhmSg4cjFzW9zMUYL5vs",
+            "vaultName": "vault"
+          },
+          "value": "tags.assessment.alignment",
+          "alias": "#assessment.alignment",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 22,
+              "offset": 21
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.assessment.alignment"
+          }
+        },
+        {
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1308,
+              "offset": 1693
+            },
+            "end": {
+              "line": 12,
+              "column": 1358,
+              "offset": 1743
+            },
+            "indent": []
+          },
+          "value": "assessment.foundation.biggsWhatStudentDoes1999",
+          "alias": "assessment.foundation.biggsWhatStudentDoes1999"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "RQsWlmJQOKZkutisdTm0j",
+      "data": {}
+    },
+    "LoO5XTqa9xfDY8xhh161H": {
+      "fname": "socialmedia",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032226,
+      "created": 1643959032226,
+      "id": "LoO5XTqa9xfDY8xhh161H",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "w5grT3Tk6SpyItEwZBzV6",
+        "WBLPS89M7qOH3fyNZIXLb",
+        "mPJW2VB9DNmJd6lTmS0ML",
+        "fCU6OwltnUQ7pUgEDrM49",
+        "ZCkBfOyOHDl8g7kJQFJKs"
+      ],
+      "parent": "5jYEnrzN6hGFE8UIGFZmq",
+      "data": {},
+      "title": "Socialmedia"
+    },
+    "ZCkBfOyOHDl8g7kJQFJKs": {
+      "fname": "socialmedia.twitter",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032230,
+      "created": 1643959032230,
+      "id": "ZCkBfOyOHDl8g7kJQFJKs",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "AG6SQpI8MoKrbiruyhWHI",
+        "7wgtAqINuAK3bKvdfByW6"
+      ],
+      "parent": "LoO5XTqa9xfDY8xhh161H",
+      "data": {},
+      "title": "Twitter"
+    },
+    "7wgtAqINuAK3bKvdfByW6": {
+      "id": "7wgtAqINuAK3bKvdfByW6",
+      "title": "katsarosReconsideringTweetsIntervening2021",
+      "desc": "",
+      "updated": 1643934790893,
+      "created": 1643934594390,
+      "custom": {},
+      "fname": "socialmedia.twitter.katsarosReconsideringTweetsIntervening2021",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "83888c11de91c1b86881513894b38fb4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ZCkBfOyOHDl8g7kJQFJKs",
+      "data": {}
+    },
+    "AG6SQpI8MoKrbiruyhWHI": {
+      "id": "AG6SQpI8MoKrbiruyhWHI",
+      "title": "hagerBroadcasterJodyVance2021",
+      "desc": "",
+      "updated": 1643002306204,
+      "created": 1642275524197,
+      "custom": {},
+      "fname": "socialmedia.twitter.hagerBroadcasterJodyVance2021",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "21f5f2f5f95b222f5f933ee80bc78554",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "socialmedia.twitter.hagerBroadcasterJodyVance2021",
+            "id": "AG6SQpI8MoKrbiruyhWHI",
+            "vaultName": "vault"
+          },
+          "value": "tags.jodyvance",
+          "alias": "#jodyvance",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 11,
+              "offset": 11
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.jodyvance"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "ZCkBfOyOHDl8g7kJQFJKs",
+      "data": {}
+    },
+    "fCU6OwltnUQ7pUgEDrM49": {
+      "id": "fCU6OwltnUQ7pUgEDrM49",
+      "title": "pazurekSocialMediaConnected2021",
+      "desc": "",
+      "updated": 1642141297948,
+      "created": 1641367264205,
+      "custom": {},
+      "fname": "socialmedia.pazurekSocialMediaConnected2021",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "81cba7e7a079d2e466fa77c2a7442bd7",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "socialmedia.pazurekSocialMediaConnected2021",
+            "id": "fCU6OwltnUQ7pUgEDrM49",
+            "vaultName": "vault"
+          },
+          "value": "tags.socialmedia",
+          "alias": "#socialmedia",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 325
+            },
+            "end": {
+              "line": 6,
+              "column": 13,
+              "offset": 337
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.socialmedia"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "socialmedia.pazurekSocialMediaConnected2021",
+            "id": "fCU6OwltnUQ7pUgEDrM49",
+            "vaultName": "vault"
+          },
+          "value": "tags.spark",
+          "alias": "#spark",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 14,
+              "offset": 338
+            },
+            "end": {
+              "line": 6,
+              "column": 20,
+              "offset": 344
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.spark"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "socialmedia.pazurekSocialMediaConnected2021",
+            "id": "fCU6OwltnUQ7pUgEDrM49",
+            "vaultName": "vault"
+          },
+          "value": "tags.connected",
+          "alias": "#connected",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 21,
+              "offset": 345
+            },
+            "end": {
+              "line": 6,
+              "column": 31,
+              "offset": 355
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.connected"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "socialmedia.pazurekSocialMediaConnected2021",
+            "id": "fCU6OwltnUQ7pUgEDrM49",
+            "vaultName": "vault"
+          },
+          "value": "tags.edci338",
+          "alias": "#edci338",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 32,
+              "offset": 356
+            },
+            "end": {
+              "line": 6,
+              "column": 40,
+              "offset": 364
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.edci338"
+          }
+        }
+      ],
+      "anchors": {
+        "abstract": {
+          "type": "header",
+          "text": "Abstract",
+          "value": "abstract",
+          "line": 10,
+          "column": 0,
+          "depth": 1
+        },
+        "p138": {
+          "type": "header",
+          "text": "p138",
+          "value": "p138",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "p139": {
+          "type": "header",
+          "text": "p139",
+          "value": "p139",
+          "line": 29,
+          "column": 0,
+          "depth": 3
+        },
+        "research-findings": {
+          "type": "header",
+          "text": "Research Findings",
+          "value": "research-findings",
+          "line": 34,
+          "column": 0,
+          "depth": 2
+        },
+        "p142": {
+          "type": "header",
+          "text": "p142",
+          "value": "p142",
+          "line": 35,
+          "column": 0,
+          "depth": 3
+        },
+        "p143": {
+          "type": "header",
+          "text": "p143",
+          "value": "p143",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        },
+        "implications": {
+          "type": "header",
+          "text": "Implications",
+          "value": "implications",
+          "line": 51,
+          "column": 0,
+          "depth": 2
+        },
+        "p144": {
+          "type": "header",
+          "text": "p144",
+          "value": "p144",
+          "line": 53,
+          "column": 0,
+          "depth": 3
+        },
+        "commentary": {
+          "type": "header",
+          "text": "Commentary",
+          "value": "commentary",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "LoO5XTqa9xfDY8xhh161H",
+      "data": {}
+    },
+    "mPJW2VB9DNmJd6lTmS0ML": {
+      "id": "mPJW2VB9DNmJd6lTmS0ML",
+      "title": "gallantDirtyWorkCleaning2022",
+      "desc": "",
+      "updated": 1642141283727,
+      "created": 1642006475950,
+      "custom": {},
+      "fname": "socialmedia.gallantDirtyWorkCleaning2022",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9cb34b3ffce8263805280a61ce32e58d",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "socialmedia.gallantDirtyWorkCleaning2022",
+            "id": "mPJW2VB9DNmJd6lTmS0ML",
+            "vaultName": "vault"
+          },
+          "value": "tags.edci338",
+          "alias": "#edci338",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 9,
+              "offset": 9
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.edci338"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "LoO5XTqa9xfDY8xhh161H",
+      "data": {}
+    },
+    "WBLPS89M7qOH3fyNZIXLb": {
+      "id": "WBLPS89M7qOH3fyNZIXLb",
+      "title": "funkIndigenousAuthorshipOpen2020",
+      "desc": "",
+      "updated": 1642141267063,
+      "created": 1642140281350,
+      "custom": {},
+      "fname": "socialmedia.funkIndigenousAuthorshipOpen2020",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a16404501f703a73e09d2c8b99e4a3fb",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "socialmedia.funkIndigenousAuthorshipOpen2020",
+            "id": "WBLPS89M7qOH3fyNZIXLb",
+            "vaultName": "vault"
+          },
+          "value": "tags.edci338",
+          "alias": "#edci338",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 9,
+              "offset": 9
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.edci338"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "LoO5XTqa9xfDY8xhh161H",
+      "data": {}
+    },
+    "w5grT3Tk6SpyItEwZBzV6": {
+      "id": "w5grT3Tk6SpyItEwZBzV6",
+      "title": "brownEthicalUseTechnology2020",
+      "desc": "",
+      "updated": 1643004726881,
+      "created": 1642140326046,
+      "custom": {},
+      "fname": "socialmedia.brownEthicalUseTechnology2020",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2acfa911e80ad737fbc4c0c6ca8bb6f5",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "socialmedia.brownEthicalUseTechnology2020",
+            "id": "w5grT3Tk6SpyItEwZBzV6",
+            "vaultName": "vault"
+          },
+          "value": "tags.edci338",
+          "alias": "#edci338",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 9,
+              "offset": 9
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tags.edci338"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "LoO5XTqa9xfDY8xhh161H",
+      "data": {}
+    },
+    "yTIqwRe5IPrxiJ01mdsxI": {
+      "fname": "highered",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032226,
+      "created": 1643959032226,
+      "id": "yTIqwRe5IPrxiJ01mdsxI",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "2ok3LTZi3lrsHfmE6X9bD",
+        "bkYVn0il3a50e1qIWNURN"
+      ],
+      "parent": "5jYEnrzN6hGFE8UIGFZmq",
+      "data": {},
+      "title": "Highered"
+    },
+    "bkYVn0il3a50e1qIWNURN": {
+      "fname": "highered.digital",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032229,
+      "created": 1643959032229,
+      "id": "bkYVn0il3a50e1qIWNURN",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "8gMzIvWhIY14xQPQX0IRG"
+      ],
+      "parent": "yTIqwRe5IPrxiJ01mdsxI",
+      "data": {},
+      "title": "Digital"
+    },
+    "8gMzIvWhIY14xQPQX0IRG": {
+      "id": "8gMzIvWhIY14xQPQX0IRG",
+      "title": "selwynDigitalTechnologyContemporary2014",
+      "desc": "",
+      "updated": 1643958657854,
+      "created": 1643958608713,
+      "custom": {},
+      "fname": "highered.digital.selwynDigitalTechnologyContemporary2014",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "dbd07e84934f10b6870395dc77f81acf",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "bkYVn0il3a50e1qIWNURN",
+      "data": {}
+    },
+    "2ok3LTZi3lrsHfmE6X9bD": {
+      "id": "2ok3LTZi3lrsHfmE6X9bD",
+      "title": "barnettUniversitiesEpistemologyDissolution2017",
+      "desc": "",
+      "updated": 1643958572515,
+      "created": 1643958548346,
+      "custom": {},
+      "fname": "highered.barnettUniversitiesEpistemologyDissolution2017",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "156218cd4ecf53dd2c9d4460618416ad",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "yTIqwRe5IPrxiJ01mdsxI",
+      "data": {}
+    },
+    "L22lROYOyWkZEdDIPsTID": {
+      "fname": "cognitiveload",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032225,
+      "created": 1643959032225,
+      "id": "L22lROYOyWkZEdDIPsTID",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "tXRGL9EkMtG2vhYsxky2q",
+        "oSwcUHjm2YZBOqQzZTOIC"
+      ],
+      "parent": "5jYEnrzN6hGFE8UIGFZmq",
+      "data": {},
+      "title": "Cognitiveload"
+    },
+    "oSwcUHjm2YZBOqQzZTOIC": {
+      "id": "oSwcUHjm2YZBOqQzZTOIC",
+      "title": "swellerCognitiveLoadTheory1994",
+      "desc": "",
+      "updated": 1640895456608,
+      "created": 1640807481000,
+      "custom": {},
+      "fname": "cognitiveload.swellerCognitiveLoadTheory1994",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "648cca40fbe7f1bd083b7b07b8983528",
+      "links": [],
+      "anchors": {
+        "abstract": {
+          "type": "header",
+          "text": "Abstract",
+          "value": "abstract",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "p296": {
+          "type": "header",
+          "text": "p296",
+          "value": "p296",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "schemas": {
+          "type": "header",
+          "text": "Schemas",
+          "value": "schemas",
+          "line": 17,
+          "column": 0,
+          "depth": 3
+        },
+        "p297": {
+          "type": "header",
+          "text": "p297",
+          "value": "p297",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "automation-of-intellectual-operations": {
+          "type": "header",
+          "text": "Automation of Intellectual Operations",
+          "value": "automation-of-intellectual-operations",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "what-is-the-function-of-learning": {
+          "type": "header",
+          "text": "What is the Function of Learning?",
+          "value": "what-is-the-function-of-learning",
+          "line": 28,
+          "column": 0,
+          "depth": 3
+        },
+        "p299": {
+          "type": "header",
+          "text": "p299",
+          "value": "p299",
+          "line": 32,
+          "column": 0,
+          "depth": 3
+        },
+        "facilitating-learning-and-problem-solving": {
+          "type": "header",
+          "text": "Facilitating Learning and Problem Solving",
+          "value": "facilitating-learning-and-problem-solving",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "L22lROYOyWkZEdDIPsTID",
+      "data": {}
+    },
+    "tXRGL9EkMtG2vhYsxky2q": {
+      "id": "tXRGL9EkMtG2vhYsxky2q",
+      "title": "larmuseauMultimodalLearningAnalytics2020",
+      "desc": "",
+      "updated": 1640807554761,
+      "created": 1640807554761,
+      "custom": {},
+      "fname": "cognitiveload.larmuseauMultimodalLearningAnalytics2020",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2750a3890e8757936442ed144905c780",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "L22lROYOyWkZEdDIPsTID",
+      "data": {}
+    },
+    "B7myY49HkkF7myZxUuBxl": {
+      "id": "B7myY49HkkF7myZxUuBxl",
+      "title": "Tags",
+      "desc": "",
+      "updated": 1643524153683,
+      "created": 1643524153683,
+      "custom": {},
+      "fname": "tags",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "dc4a78d5b109d3555cb1a7ccb3338a7a",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "wVHMQ0Fo59Rdy6fM2WSCm",
+        "q768zRVZao43mJIrExpp5",
+        "Bch7J6NvUT7U2QM1GcRNq",
+        "idWx1XO1RxRMmWFoJyeHA",
+        "4D6qHgXIFcFWUcuXLRMxb",
+        "KcpNjYVjuSik8u0dWgVdY",
+        "L36AcOXXKJxiL2aVXx8MT",
+        "vHkh7vgt55MF3ChyDqloc",
+        "sbhwMxn3flgyUyOUdP3Ou",
+        "VaenYbsJ2SoWYqmXwHJIF"
+      ],
+      "parent": "5jYEnrzN6hGFE8UIGFZmq",
+      "data": {}
+    },
+    "VaenYbsJ2SoWYqmXwHJIF": {
+      "fname": "tags.sampling",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032231,
+      "created": 1643959032231,
+      "id": "VaenYbsJ2SoWYqmXwHJIF",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "rt3ckFN6ZopCD0p4MOVWI"
+      ],
+      "parent": "B7myY49HkkF7myZxUuBxl",
+      "data": {},
+      "title": "Sampling"
+    },
+    "rt3ckFN6ZopCD0p4MOVWI": {
+      "id": "rt3ckFN6ZopCD0p4MOVWI",
+      "title": "Non Probablistic",
+      "desc": "",
+      "updated": 1643526639767,
+      "created": 1643526639767,
+      "custom": {},
+      "fname": "tags.sampling.non-probablistic",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f6932ed93febb461b16beb0ded5ca014",
+      "links": [
+        {
+          "from": {
+            "fname": "assessment.highered.fernandesAssessmentHigherEducation2022",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 15,
+              "offset": 15
+            },
+            "end": {
+              "line": 2,
+              "column": 41,
+              "offset": 41
+            },
+            "indent": []
+          },
+          "value": "tags.sampling.non-probablistic",
+          "alias": "#sampling.non-probablistic"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "VaenYbsJ2SoWYqmXwHJIF",
+      "data": {}
+    },
+    "sbhwMxn3flgyUyOUdP3Ou": {
+      "fname": "tags.methods",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032231,
+      "created": 1643959032231,
+      "id": "sbhwMxn3flgyUyOUdP3Ou",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ikcio6O2OBS313HmRhScs",
+        "ZrgMCIZlsHfgFbBgqRJBQ"
+      ],
+      "parent": "B7myY49HkkF7myZxUuBxl",
+      "data": {},
+      "title": "Methods"
+    },
+    "ZrgMCIZlsHfgFbBgqRJBQ": {
+      "id": "ZrgMCIZlsHfgFbBgqRJBQ",
+      "title": "Qualitative",
+      "desc": "",
+      "updated": 1643262654569,
+      "created": 1643262654569,
+      "custom": {},
+      "fname": "tags.methods.qualitative",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2a719bb212e5208d292200709b47f11e",
+      "links": [
+        {
+          "from": {
+            "fname": "assessment.online.students.khanOnlineAssessmentsExploring2019",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 21,
+              "offset": 21
+            },
+            "indent": []
+          },
+          "value": "tags.methods.qualitative",
+          "alias": "#methods.qualitative"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "sbhwMxn3flgyUyOUdP3Ou",
+      "data": {}
+    },
+    "ikcio6O2OBS313HmRhScs": {
+      "id": "ikcio6O2OBS313HmRhScs",
+      "title": "Mixed",
+      "desc": "",
+      "updated": 1643526732405,
+      "created": 1643526732405,
+      "custom": {},
+      "fname": "tags.methods.mixed",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "0708aa811e48c6d847279f9e962ad8e0",
+      "links": [
+        {
+          "from": {
+            "fname": "assessment.highered.fernandesAssessmentHigherEducation2022",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 42,
+              "offset": 42
+            },
+            "end": {
+              "line": 2,
+              "column": 56,
+              "offset": 56
+            },
+            "indent": []
+          },
+          "value": "tags.methods.mixed",
+          "alias": "#methods.mixed"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "sbhwMxn3flgyUyOUdP3Ou",
+      "data": {}
+    },
+    "vHkh7vgt55MF3ChyDqloc": {
+      "fname": "tags.learner",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032231,
+      "created": 1643959032231,
+      "id": "vHkh7vgt55MF3ChyDqloc",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "5b1xdHEsrUBp5nGt8fVJj"
+      ],
+      "parent": "B7myY49HkkF7myZxUuBxl",
+      "data": {},
+      "title": "Learner"
+    },
+    "5b1xdHEsrUBp5nGt8fVJj": {
+      "id": "5b1xdHEsrUBp5nGt8fVJj",
+      "title": "Perspective",
+      "desc": "",
+      "updated": 1643262714878,
+      "created": 1643262714878,
+      "custom": {},
+      "fname": "tags.learner.perspective",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ed71e5d107778f4e683c8a841ffb5027",
+      "links": [
+        {
+          "from": {
+            "fname": "assessment.online.students.khanOnlineAssessmentsExploring2019",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 22,
+              "offset": 22
+            },
+            "end": {
+              "line": 2,
+              "column": 42,
+              "offset": 42
+            },
+            "indent": []
+          },
+          "value": "tags.learner.perspective",
+          "alias": "#learner.perspective"
+        },
+        {
+          "from": {
+            "fname": "assessment.online.students.spiveyClassroomOnlineAssessment2014",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 21,
+              "offset": 21
+            },
+            "indent": []
+          },
+          "value": "tags.learner.perspective",
+          "alias": "#learner.perspective"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "vHkh7vgt55MF3ChyDqloc",
+      "data": {}
+    },
+    "L36AcOXXKJxiL2aVXx8MT": {
+      "fname": "tags.assessment",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1643959032230,
+      "created": 1643959032230,
+      "id": "L36AcOXXKJxiL2aVXx8MT",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "Q9XH7WwiKgLdETTXveh38",
+        "4bg9hQvoSzW7iAIqfPYS4",
+        "gYIS7rwER6sC6FN78xtCI",
+        "YKMyA6FY1Za2J0ArEqGmU"
+      ],
+      "parent": "B7myY49HkkF7myZxUuBxl",
+      "data": {},
+      "title": "Assessment"
+    },
+    "YKMyA6FY1Za2J0ArEqGmU": {
+      "id": "YKMyA6FY1Za2J0ArEqGmU",
+      "title": "Digital",
+      "desc": "",
+      "updated": 1643872349344,
+      "created": 1643872201653,
+      "custom": {},
+      "fname": "tags.assessment.digital",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "db83d597c87712f4e68db52fc3318137",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tags.assessment.digital",
+            "id": "YKMyA6FY1Za2J0ArEqGmU",
+            "vaultName": "vault"
+          },
+          "value": "assessment.highered.digital.bearmanReimaginingUniversityAssessment2020.ch1",
+          "alias": "assessment.highered.digital.bearmanReimaginingUniversityAssessment2020.ch1",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 79,
+              "offset": 79
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "assessment.highered.digital.bearmanReimaginingUniversityAssessment2020.ch1"
+          }
+        },
+        {
+          "from": {
+            "fname": "assessment.highered.digital.bearmanReimaginingUniversityAssessment2020.ch1",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 20,
+              "offset": 20
+            },
+            "indent": []
+          },
+          "value": "tags.assessment.digital",
+          "alias": "#assessment.digital"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "L36AcOXXKJxiL2aVXx8MT",
+      "data": {}
+    },
+    "gYIS7rwER6sC6FN78xtCI": {
+      "id": "gYIS7rwER6sC6FN78xtCI",
+      "title": "Context Dependent",
+      "desc": "",
+      "updated": 1643009464340,
+      "created": 1643009464340,
+      "custom": {},
+      "fname": "tags.assessment.context-dependent",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1ff2dabe41022557c041a5062282a93b",
+      "links": [
+        {
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 34,
+              "offset": 228
+            },
+            "end": {
+              "line": 5,
+              "column": 63,
+              "offset": 257
+            },
+            "indent": []
+          },
+          "value": "tags.assessment.context-dependent",
+          "alias": "#assessment.context-dependent"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "L36AcOXXKJxiL2aVXx8MT",
+      "data": {}
+    },
+    "4bg9hQvoSzW7iAIqfPYS4": {
+      "id": "4bg9hQvoSzW7iAIqfPYS4",
+      "title": "Assessment Triangle",
+      "desc": "",
+      "updated": 1643008972106,
+      "created": 1643008972106,
+      "custom": {},
+      "fname": "tags.assessment.assessment-triangle",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e5232e8edf040e95fc32129830410d9d",
+      "links": [
+        {
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 2,
+              "offset": 196
+            },
+            "end": {
+              "line": 5,
+              "column": 33,
+              "offset": 227
+            },
+            "indent": []
+          },
+          "value": "tags.assessment.assessment-triangle",
+          "alias": "#assessment.assessment-triangle"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "L36AcOXXKJxiL2aVXx8MT",
+      "data": {}
+    },
+    "Q9XH7WwiKgLdETTXveh38": {
+      "id": "Q9XH7WwiKgLdETTXveh38",
+      "title": "Alignment",
+      "desc": "",
+      "updated": 1643009494245,
+      "created": 1643009494245,
+      "custom": {},
+      "fname": "tags.assessment.alignment",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7c1d3f54b063ac6bac1bc31c0ea2ba3d",
+      "links": [
+        {
+          "from": {
+            "fname": "assessment.foundation.biggsWhatStudentDoes1999",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 22,
+              "offset": 21
+            },
+            "indent": []
+          },
+          "value": "tags.assessment.alignment",
+          "alias": "#assessment.alignment"
+        },
+        {
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 85,
+              "offset": 279
+            },
+            "end": {
+              "line": 5,
+              "column": 106,
+              "offset": 300
+            },
+            "indent": []
+          },
+          "value": "tags.assessment.alignment",
+          "alias": "#assessment.alignment"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "L36AcOXXKJxiL2aVXx8MT",
+      "data": {}
+    },
+    "KcpNjYVjuSik8u0dWgVdY": {
+      "id": "KcpNjYVjuSik8u0dWgVdY",
+      "title": "reasoning",
+      "desc": "",
+      "updated": 1643006334522,
+      "created": 1643006320132,
+      "custom": {},
+      "fname": "tags.reasoning",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b1ca1787922c0ced710948f6b00fc966",
+      "links": [
+        {
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 64,
+              "offset": 258
+            },
+            "end": {
+              "line": 5,
+              "column": 74,
+              "offset": 268
+            },
+            "indent": []
+          },
+          "value": "tags.reasoning",
+          "alias": "#reasoning"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "B7myY49HkkF7myZxUuBxl",
+      "data": {}
+    },
+    "4D6qHgXIFcFWUcuXLRMxb": {
+      "id": "4D6qHgXIFcFWUcuXLRMxb",
+      "title": "jodyvance",
+      "desc": "",
+      "updated": 1643003812238,
+      "created": 1643002317200,
+      "custom": {},
+      "fname": "tags.jodyvance",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "25e8d70862f0ff6fcc92e96d8aba73a6",
+      "links": [
+        {
+          "from": {
+            "fname": "socialmedia.twitter.hagerBroadcasterJodyVance2021",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 11,
+              "offset": 11
+            },
+            "indent": []
+          },
+          "value": "tags.jodyvance",
+          "alias": "#jodyvance"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "B7myY49HkkF7myZxUuBxl",
+      "data": {}
+    },
+    "idWx1XO1RxRMmWFoJyeHA": {
+      "id": "idWx1XO1RxRMmWFoJyeHA",
+      "title": "Hopper",
+      "desc": "",
+      "updated": 1643524297082,
+      "created": 1643524297082,
+      "custom": {},
+      "fname": "tags.hopper",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "24e8ba1e2fe55ef6f380a8a0a0b5491d",
+      "links": [
+        {
+          "from": {
+            "fname": "assessment.highered.fernandesAssessmentHigherEducation2022",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 7,
+              "offset": 7
+            },
+            "end": {
+              "line": 2,
+              "column": 14,
+              "offset": 14
+            },
+            "indent": []
+          },
+          "value": "tags.hopper",
+          "alias": "#hopper"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "B7myY49HkkF7myZxUuBxl",
+      "data": {}
+    },
+    "Bch7J6NvUT7U2QM1GcRNq": {
+      "id": "Bch7J6NvUT7U2QM1GcRNq",
+      "title": "evidence",
+      "desc": "",
+      "updated": 1643006851081,
+      "created": 1643006842063,
+      "custom": {},
+      "fname": "tags.evidence",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7816dd319269a16895a8e9bd6625363f",
+      "links": [
+        {
+          "from": {
+            "fname": "assessment.foundation.pellegrinoKnowingWhatStudents2001",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 75,
+              "offset": 269
+            },
+            "end": {
+              "line": 5,
+              "column": 84,
+              "offset": 278
+            },
+            "indent": []
+          },
+          "value": "tags.evidence",
+          "alias": "#evidence"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "B7myY49HkkF7myZxUuBxl",
+      "data": {}
+    },
+    "q768zRVZao43mJIrExpp5": {
+      "id": "q768zRVZao43mJIrExpp5",
+      "title": "edci338",
+      "desc": "",
+      "updated": 1643003805322,
+      "created": 1643002229823,
+      "custom": {},
+      "fname": "tags.edci338",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f772c13ebf53d61694beb4b6c6439418",
+      "links": [
+        {
+          "from": {
+            "fname": "socialmedia.brownEthicalUseTechnology2020",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 9,
+              "offset": 9
+            },
+            "indent": []
+          },
+          "value": "tags.edci338",
+          "alias": "#edci338"
+        },
+        {
+          "from": {
+            "fname": "socialmedia.funkIndigenousAuthorshipOpen2020",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 9,
+              "offset": 9
+            },
+            "indent": []
+          },
+          "value": "tags.edci338",
+          "alias": "#edci338"
+        },
+        {
+          "from": {
+            "fname": "socialmedia.gallantDirtyWorkCleaning2022",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 9,
+              "offset": 9
+            },
+            "indent": []
+          },
+          "value": "tags.edci338",
+          "alias": "#edci338"
+        },
+        {
+          "from": {
+            "fname": "socialmedia.pazurekSocialMediaConnected2021",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 32,
+              "offset": 356
+            },
+            "end": {
+              "line": 6,
+              "column": 40,
+              "offset": 364
+            },
+            "indent": []
+          },
+          "value": "tags.edci338",
+          "alias": "#edci338"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "B7myY49HkkF7myZxUuBxl",
+      "data": {}
+    },
+    "wVHMQ0Fo59Rdy6fM2WSCm": {
+      "id": "wVHMQ0Fo59Rdy6fM2WSCm",
+      "title": "AEHE",
+      "desc": "",
+      "updated": 1643524266876,
+      "created": 1643524266876,
+      "custom": {},
+      "fname": "tags.AEHE",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5acf73d85edda22caf380a32f22c61e3",
+      "links": [
+        {
+          "from": {
+            "fname": "assessment.highered.fernandesAssessmentHigherEducation2022",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 6,
+              "offset": 6
+            },
+            "indent": []
+          },
+          "value": "tags.AEHE",
+          "alias": "#AEHE"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "B7myY49HkkF7myZxUuBxl",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "5jYEnrzN6hGFE8UIGFZmq",
+      "title": "Literature",
+      "desc": "",
+      "updated": 1641603128996,
+      "created": 1640807033123,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "50d4df57e1d51dc7dc70adcb1107174a",
+      "links": [],
+      "anchors": {
+        "colin-madland": {
+          "type": "header",
+          "text": "Colin Madland",
+          "value": "colin-madland",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "B7myY49HkkF7myZxUuBxl",
+        "L22lROYOyWkZEdDIPsTID",
+        "yTIqwRe5IPrxiJ01mdsxI",
+        "LoO5XTqa9xfDY8xhh161H",
+        "jADP0D1g2XDXGy7YK6hfq",
+        "VpmPuvmeSOhFST1BB6QTT"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "# Colin Madland\n\nUsing this site to build a networked literature repository\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "5jYEnrzN6hGFE8UIGFZmq",
+    "title": "Literature",
+    "desc": "",
+    "updated": 1641603128996,
+    "created": 1640807033123,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "50d4df57e1d51dc7dc70adcb1107174a",
+    "links": [],
+    "anchors": {
+      "colin-madland": {
+        "type": "header",
+        "text": "Colin Madland",
+        "value": "colin-madland",
+        "line": 7,
+        "column": 0,
+        "depth": 1
+      },
+      "lookup": {
+        "type": "header",
+        "text": "Lookup",
+        "value": "lookup",
+        "line": 10,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "B7myY49HkkF7myZxUuBxl",
+      "L22lROYOyWkZEdDIPsTID",
+      "yTIqwRe5IPrxiJ01mdsxI",
+      "LoO5XTqa9xfDY8xhh161H",
+      "jADP0D1g2XDXGy7YK6hfq",
+      "VpmPuvmeSOhFST1BB6QTT"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "# Colin Madland\n\nUsing this site to build a networked literature repository\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
